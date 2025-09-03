@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Result</title>
+    <link rel="stylesheet" href="/static/result.css">
+</head>
+<body>
+    <div class="result-container">
+        <h2>Prediction Result</h2>
+
+        {% if prediction == "Fraudulent Transaction" %}
+            <div class="result-text fraud">🚨 Fraudulent Transaction Detected!</div>
+        {% else %}
+            <div class="result-text legit">✅ Legitimate Transaction</div>
+        {% endif %}
+
+        <p><strong></strong> {{ prediction }}</p>
+
+        <a href="/" class="btn">⬅ Back to Home</a>
+    </div>
+</body>
+</html>
