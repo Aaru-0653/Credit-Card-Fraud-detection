@@ -68,12 +68,14 @@ http://127.0.0.1:5000
 
 
 
-Screenshot 2025-09-03 124440.png
+<img width="1305" height="639" alt="Screenshot 2025-09-03 124440" src="https://github.com/user-attachments/assets/9df7b7c2-bbf4-4586-9055-5b28606425a0" />
 🔹 Input Form
 (User enters transaction details)
 
 
-Screenshot 2025-09-03 124501.png
+
+<img width="1301" height="632" alt="Screenshot 2025-09-03 124501" src="https://github.com/user-attachments/assets/b8de4882-60c0-4f72-816d-7cf39182b4a8" />
+
 🔹 Prediction Result
 ✅ Legitimate Transaction
 🚨 Fraudulent Transaction
