@@ -28,6 +28,10 @@ CREDIT-CARD-FRAUD-DETECTION/
 📊 Dataset
 
 Source: Kaggle - Credit Card Fraud Detection Dataset
+## Dataset
+The dataset used for training this model can be found here:  
+[Credit Card Fraud Detection Dataset on Kaggle] https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023?utm_source=chatgpt.com
+
 Features: 30 numerical features (V1 → V28, Amount)
 Target: Class
 0 → Legitimate Transaction
@@ -45,7 +49,7 @@ Deploy Flask app where users can input transaction values and get predictions.
 🖥️ Setup & Installation
 
 Clone the repository:
-git clone https://github.com/your-username/Credit-Card-Fraud-Detection.git
+git clone https://github.com/Aaru-0653/Credit-Card-Fraud-detection.git
 cd Credit-Card-Fraud-Detection
 
 Create & activate a virtual environment:
@@ -63,10 +67,13 @@ Open in browser:
 http://127.0.0.1:5000
 
 
-🖼️ Screenshots
+
+"C:\Users\aarup\Pictures\Screenshots\Screenshot 2025-09-03 124440.png"
 🔹 Input Form
 (User enters transaction details)
 
+
+"C:\Users\aarup\Pictures\Screenshots\Screenshot 2025-09-03 124501.png"
 🔹 Prediction Result
 ✅ Legitimate Transaction
 🚨 Fraudulent Transaction
