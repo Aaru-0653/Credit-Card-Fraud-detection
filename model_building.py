@@ -1,5 +1,3 @@
-# model_building.py
-
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
@@ -34,7 +32,7 @@ print("Accuracy:", accuracy_score(y_test, y_pred))
 print("\nClassification Report:\n", classification_report(y_test, y_pred))
 
 
-joblib.dump(model, "cancer_model.joblib")
+joblib.dump(model, "credit_model.joblib")
 joblib.dump(scaler, "scaler.joblib")
 
 print("✅ Model and Scaler saved successfully!")
