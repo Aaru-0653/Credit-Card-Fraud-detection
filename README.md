@@ -68,12 +68,12 @@ http://127.0.0.1:5000
 
 
 
-"C:\Users\aarup\Pictures\Screenshots\Screenshot 2025-09-03 124440.png"
+Screenshot 2025-09-03 124440.png
 🔹 Input Form
 (User enters transaction details)
 
 
-"C:\Users\aarup\Pictures\Screenshots\Screenshot 2025-09-03 124501.png"
+Screenshot 2025-09-03 124501.png
 🔹 Prediction Result
 ✅ Legitimate Transaction
 🚨 Fraudulent Transaction
